@@ -2,3 +2,6 @@
 
 
 zad1
+
+
+zxcfasfsdag
